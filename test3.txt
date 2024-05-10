@@ -1,0 +1,1 @@
+Create text 3 file on mac and push it i=to git. but in 1st attempt it's failure. It's ok.
